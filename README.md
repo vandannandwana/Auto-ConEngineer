@@ -1,4 +1,4 @@
-# AutoCon- Engineer Desktop App build using Jetpack Compose { Kotlin Multi Platform}
+# AutoCon- Engineer Desktop App build using Jetpack Compose { Kotlin Multiplatform}
 This App is a technology-driven solution designed to streamline construction processes by providing real-time project tracking, 
 resource management, automated budgeting, and 3D visualizations.
 The app aims to eliminate inefficiencies in traditional construction workflows by integrating modern software solutions.
